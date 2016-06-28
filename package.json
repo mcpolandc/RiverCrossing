@@ -1,0 +1,25 @@
+{
+  "name": "rivercrossing",
+  "version": "1.0.0",
+  "description": "Simple game where all characters have to make it from one side of the river to the other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcpolandc/RiverCrossing.git"
+  },
+  "keywords": [
+    "ReactJS"
+  ],
+  "author": "mcpolandc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcpolandc/RiverCrossing/issues"
+  },
+  "homepage": "https://github.com/mcpolandc/RiverCrossing#readme",
+  "dependencies": {
+    "react": "^15.1.0"
+  }
+}
